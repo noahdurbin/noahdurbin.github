@@ -5,9 +5,9 @@ jobs:
     name: shalzz/zola-deploy-action
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@main
+    - uses: actions/checkout@master
     - name: shalzz/zola-deploy-action
-      uses: shalzz/zola-deploy-action@main
+      uses: shalzz/zola-deploy-action@master
       env:
         PAGES_BRANCH: main
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
