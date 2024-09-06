@@ -1,0 +1,29 @@
+# The URL the site will be built for
+base_url = "https://noahdurbin.github.io"
+
+#theme
+theme = "anemone"
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+taxonomies = [{ name = "tags" }]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[extra]
+header_nav = [
+    { url = "/", name_en = "/home/" },
+    { url = "/about", name_en = "/about/" },
+    { url = "/blog", name_en = "/blog/" },
+]
