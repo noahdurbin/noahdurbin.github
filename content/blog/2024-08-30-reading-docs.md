@@ -1,5 +1,5 @@
 +++
-title = "Reading Docs"
+title = "2024-08-30 Reading Docs"
 +++
 
 Reading documentation is a big part of being a software engineer. It's hard to know all the tools and ways of doing things going into a project and reding documentation is how you can pick up the skills you need to solve the problems you come across. Documentation gives you the blueprints for how to use certain tools and frameworks. In my time as a developer I have frequently used the Ruby docs, rails docs, documentation for specific packages, and more; too many to count I'm sure. Even when using an ai tool like perplexity I am more likely to click into the linked documentation than read the given response.

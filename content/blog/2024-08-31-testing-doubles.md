@@ -1,5 +1,5 @@
 +++
-title = "Testing with Doubles in RSpec"
+title = "2024-08-31 Testing with Doubles in RSpec"
 +++
 
 In my time at Turing we have had a heavy focus on test driven development. For the majority of what we have worked on we have had what I think are pretty straightforward architectures where testing is also fairly straight forward. Our models and methods we worked with had basic methods and structures. Testing in this type of scenario isn’t too complicated either, for example with a User model it isn’t difficult to simply create the user in the test setup using a typical syntax like
