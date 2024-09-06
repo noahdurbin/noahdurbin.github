@@ -1,6 +1,7 @@
 +++
 title = "Resume"
 +++
+> *I am currently looking for employment, if you think my skillset may match what you are looking for please feel free to contact me.*<br>[Linkedin](https://www.linkedin.com/in/noahdurbin/), [Github](https://github.com/noahdurbin)
 
 Software Engineer with experience building and maintaining software primarily in Ruby on Rails; Noah has a background in intercultural studies, entrepreneurship, and specialty coffee, which drives his passion for understanding people and building software that improves their lives. He thrives in both independent and collaborative environments, valuing feedback and taking ownership of his work. Noah is a proactive problem-solver, eager to contribute his skills to your team.
 
