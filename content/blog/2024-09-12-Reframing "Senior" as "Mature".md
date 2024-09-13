@@ -2,8 +2,6 @@
 title = "Reframing Senior as Mature"
 +++
 
-# What is a Senior Engineer?
-
 I am new to the world of software engineering, I've been at it full time for the better part of a year but I still feel like I am a novice among all the people around me with decades of experience. This last week at Boulder Ruby I heard a talk by [Very Normal(Jesse)](https://verynormal.info/) that has me thinking about my career as a software engineer and how I can be a "senior engineer" even while I am still in almost every sense of the word a Junior.
 
 The thing about "senior" when it comes to engineering is that there are so many definitions of what it means to be a senior engineer, You can be at one company for a couple years and be given a title of senior engineer and move to another company and be given a lower title even though your skills and responsibilities may not have changed. The way I think about it i wonder if it would be more helpful to use a different term when referring to becoming a senior engineer. Instead of finding my definition of being a senior engineer in my job title, I wonder if it would be more helpful to think of it as being a "mature" engineer.
