@@ -13,6 +13,7 @@ My name is Noah Durbin and I am a software engineer in Boulder Colorado. I wante
 - [Reframing Senior as Mature](./blog/reframing-senior-as-mature)
 - [Testing Doubles](./blog/testing-doubles)
 - [Reading Docs](./blog/reading-docs)
+- [Reading List](./reading-list)
 
 <br>
 <br>
