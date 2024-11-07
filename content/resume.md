@@ -5,6 +5,18 @@ title = "Resume"
 
 Software Engineer with experience building and maintaining software primarily in Ruby on Rails; Noah has a background in intercultural studies, entrepreneurship, and specialty coffee, which drives his passion for understanding people and building software that improves their lives. He thrives in both independent and collaborative environments, valuing feedback and taking ownership of his work. Noah is a proactive problem-solver, eager to contribute his skills to your team.
 
+## Professional Experience
+
+### ThxRex - Software engineer intern
+ThxRex is a platform built to help travel advisors make the best possible reccomendations and plans for their customers.
+- Added to test suite using rspec
+- Built feature allowing useres to get reccomendations for a specific meal, breaskfast, lunch, and dinner
+- Built out maps displaying restaurant reccomendations to users
+
+### Boxcar Coffee Roasters
+Before pursuing a career in tech I had worked in the specialty coffee industry as a barista and as a trainer.
+- Named the third best barista in boulder 2023, voted by public in a local publication's annual survey
+
 ### Languages/Frameworks
 - Ruby
 - Rails
@@ -44,15 +56,3 @@ Built out api aggregating data from multiple api calls allowing user to call api
 - Solo project
 - Consumed three external APIs in this project
 - I'm proud of learning how to serialize large amounts of data in this project
-<br>
-<br>
-## Professional Experience
-
-### ThxRex - Software engineer intern
-ThxRex is a platform built to help travel advisors make the best possible reccomendations and plans for their customers.
-- Added to test suite using rspec
-- Built feature allowing useres to get reccomendations for a specific meal, breaskfast, lunch, and dinner
-
-### Boxcar Coffee Roasters
-Before pursuing a career in tech I had worked in the specialty coffee industry as a barista and as a trainer.
-- Named the third best barista in boulder 2023, voted by public in a local publication's annual survey
