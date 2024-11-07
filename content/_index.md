@@ -8,15 +8,13 @@ My name is Noah Durbin and I am a software engineer in Boulder Colorado. I wante
 <br>
 <br>
 
-### Check out my latest posts
 
-- [Reframing Senior as Mature](./blog/reframing-senior-as-mature)
-- [Testing Doubles](./blog/testing-doubles)
-- [Reading Docs](./blog/reading-docs)
-- [Reading List](./reading-list)
+### check out my latest post
+[Intro to langchain.rb](./blg/intro-to-langchainrb)
 
 <br>
 <br>
+
 
 ### Find me here as well
 
