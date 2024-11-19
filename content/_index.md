@@ -8,13 +8,12 @@ My name is Noah Durbin and I am a software engineer in Boulder Colorado. I wante
 <br>
 <br>
 
-
 ### check out my latest post
-[Intro to langchain.rb](./blg/intro-to-langchainrb)
+
+[Intro to langchain.rb](./blog/intro-to-langchainrb)
 
 <br>
 <br>
-
 
 ### Find me here as well
 
